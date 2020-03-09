@@ -30,4 +30,7 @@ typedef struct
     int jogador_atual;
 } ESTADO;
 
+// funcoes
+ESTADO *inicializar_estado();
+
 #endif
